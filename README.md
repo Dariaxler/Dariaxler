@@ -7,7 +7,7 @@
 - Modelar
 
 #### Lenguaje:
-C#
+- C#
 
 Estoy abierto a:
 
