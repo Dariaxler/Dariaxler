@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Darío Hijano Pascual👋
 
-<!--
-**Dariaxler/Dariaxler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Habilidades:
 
-Here are some ideas to get you started:
+Programar en Unity
+Animar en 3D y 2D
+Modelar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Lenguaje:
+C#
+
+Estoy abierto a:
+
+- Trabajar en equipo
+- Proyectos para el aprendizaje
+- Programar para juegos
