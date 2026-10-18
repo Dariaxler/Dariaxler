@@ -10,15 +10,10 @@
 - C #
 
 ## Mi actividad
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Dariaxler&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dariaxler&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dariaxler&show_icons=true&locale=en&layout=compact" alt="Dariaxler" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dariaxler&show_icons=true&locale=en&layout=compact" alt="Dariaxler" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dariaxler&show_icons=true&locale=en" alt="Dariaxler" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dariaxler&show_icons=true&locale=en" alt="Dariaxler" /></p>
 
 ## Portafolio
 
