@@ -16,4 +16,4 @@
 </div>
 ## Portafolio
 
-[![ArtStation](https://img.shields.io/badge/ArtStation-131921?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/dariohp)
+[![ArtStation](https://img.shields.io/badge/ArtStation-131921?style=for-the-badge&logo=artstation&logoColor=blue)](https://www.artstation.com/dariohp)
