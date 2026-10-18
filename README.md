@@ -6,7 +6,7 @@
 - Animar en 3D y 2D
 - Modelar
 
-#### Lenguaje:
+## Lenguaje:
 - C #
 
 ## Mi actividad
